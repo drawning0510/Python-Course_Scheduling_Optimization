@@ -9,3 +9,9 @@ Optimized course scheduling by mixed integer programming (MIP) on Python using G
 3. Python code: `Course Scheduling Optimization.ipynb`
 4. Output: `output.xlsx`
 5. Final Report: `Course Scheduling Optimization Project.pptx`, `Final Report.pdf`
+# Contributors
+* Ian Chi
+* Siyao Hu
+* Muhammad Musthofa
+* Yue Shi
+* Rushan Zhang
